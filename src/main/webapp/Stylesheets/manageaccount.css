@@ -1,0 +1,12 @@
+@charset "UTF-8";
+div {
+	border: 1px solid;
+	margin-left: 38.5%;
+	margin-right: 38.5%;
+	margin-top: 18.5%;
+	padding: 20px; 
+	h2 { 
+	color : olive;
+	text-align: center;
+       }
+}
